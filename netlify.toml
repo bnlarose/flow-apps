@@ -4,3 +4,6 @@
 
   # Functions directory
   functions = "functions"
+
+  # Deployment directory
+  publish = "dist"
