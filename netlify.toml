@@ -1,0 +1,6 @@
+[build]
+  # Site build command
+  command = "yarn run generate"
+
+  # Functions directory
+  functions = "functions"
